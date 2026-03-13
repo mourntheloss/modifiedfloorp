@@ -10,14 +10,14 @@ export function DefaultLayout() {
     <>
       <div className="grid grid-cols-1 lg:grid-cols-3 gap-4 p-4 w-full">
         <div className="lg:col-span-2 mb-10">
+          {components.clock && <Clock />}
           {components.topSites && <TopSites />}
         </div>
         <div className="flex justify-center lg:justify-end h-fit">
-          {components.clock && <Clock />}
         </div>
       </div>
       <div className="w-full flex justify-center px-4">
-        <div className="w-full max-w-full sm:max-w-lg md:max-w-xl lg:max-w-2xl mt-8 md:mt-16">
+        <div className="w-full max-w-full sm:max-w-lg md:max-w-xl lg:max-w-2xl mt-4 md:mt-16">
           {components.searchBar && <SearchBar />}
         </div>
       </div>
