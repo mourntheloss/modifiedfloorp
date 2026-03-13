@@ -2,27 +2,8 @@
 
 my modified version of floorp all credit goes to them
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![License][license-shield]][license-url]
-[![Crowdin](https://badges.crowdin.net/floorp-browser/localized.svg)](https://crowdin.com/project/floorp-browser)
-[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Floorp-Projects/Floorp)
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-
-[contributors-shield]: https://img.shields.io/github/contributors/Floorp-Projects/Floorp.svg?style=for-the-badge
-[contributors-url]: https://github.com/Floorp-Projects/Floorp/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Floorp-Projects/Floorp?style=for-the-badge
-[forks-url]: https://github.com/Floorp-Projects/Floorp/network/members
-[stars-shield]: https://img.shields.io/github/stars/Floorp-Projects/Floorp.svg?style=for-the-badge
-[stars-url]: https://github.com/Floorp-Projects/Floorp/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Floorp-Projects/Floorp.svg?style=for-the-badge
-[issues-url]: https://github.com/Floorp-Projects/Floorp/issues
-[license-shield]: https://img.shields.io/github/license/Floorp-Projects/Floorp.svg?style=for-the-badge
-[license-url]: https://github.com/Floorp-Projects/Floorp/blob/main/LICENSE
 
 <!-- PROJECT LOGO -->
 <br />
