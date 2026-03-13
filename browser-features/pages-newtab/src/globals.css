@@ -2,3 +2,23 @@
 @plugin "daisyui" {
   themes: light --default, dark --prefersdark;
 }
+@keyframes rainbow {
+  0% { filter: hue-rotate(0deg); }
+  100% { filter: hue-rotate(360deg); }
+}
+
+@keyframes spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.rainbow-spin {
+  background: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
+  animation: 
+    rainbow 2s linear infinite, 
+    spin 4s linear infinite;
+  
+  border: 5px dashed white;
+  padding: 10px;
+  border-radius: 50%; /* hi me this makes it look weird btw if it looks too weird please remove this last part */
+}
