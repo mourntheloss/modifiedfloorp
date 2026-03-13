@@ -15,44 +15,13 @@ my modified version of floorp all credit goes to them
   <h3 align="center">Floorp Browser </h3>
 
   <p align="center">
-    A browser built for keeping the Open, Private and Sustainable Web alive. Based on Mozilla Firefox.
-    <br />
-    <br />
-    <a href="https://floorp.app">Official Site</a>
-    ・
-    <a href="#-download--install">Download</a>
-    ・
-    <a href="https://blog.floorp.app">Blog & Release Notes</a>
-    ・
-    <a href="https://discord.floorp.app">Official Discord</a>
-    ・
-    <a href="https://docs.floorp.app">Documentation</a>
-  </p>
-</div>
-
+    modified floorp adds stupid stuff yes
 
 support the original people this doesnt go to me btw
 
 - [GitHub Sponsors](https://github.com/sponsors/surapunoyousei)
 
-<h2> 💕 Special Sponsors </h2>
-<div align="left" style="display: flex; flex-wrap: wrap;">
-  <a href="https://www.cube-soft.jp/" style="margin: 10px; overflow: hidden; padding: 0px 30px;">
-    <img src="https://avatars.githubusercontent.com/u/346808?s=200&v=4" alt="CubeSoft, Inc." width="100" height="100">
-    <h4 style="text-align: center;">CubeSoft, Inc.</h4>
-  </a>
-  <a href="https://1password.com/" style="margin: 10px; overflow: hidden; padding: 0px 30px;">
-    <img src="https://avatars.githubusercontent.com/1Password?s=200&v=4" alt="1Password" width="100" height="100">
-    <h4 style="text-align: center;">1Password</h4>
-  </a>
-  <a href="https://signpath.io/" style="margin: 10px; overflow: hidden; padding: 0px 30px;">
-    <img src="https://avatars.githubusercontent.com/SignPath?s=200&v=4" alt="SignPath" width="100" height="100">
-    <h4 style="text-align: center;">SignPath</h4>
-  </a>
-</div>
-
-
-the original and mine are available on windows, mac, and linux but i recommend it on linux as thats what i tried it on
+the original and mine are available on windows, mac, and linux but i recommend it on linux cuz thats what i tried it on
 
 #### windows
 
@@ -60,41 +29,12 @@ the original and mine are available on windows, mac, and linux but i recommend i
 
 - x86_64 CPU architecture. AArch64 is not supported.
 
-- Floorp provides a `.exe` installer, `winget`, and `Scoop` installation options.
-
-Winget install command:
-
-```
-winget install Ablaze.Floorp
-```
-
-Winget repository provided by [@Hibi_10000](https://github.com/Hibi-10000)
-
-Scoop install command:
-
-```
-scoop bucket add extras
-scoop install extras/floorp
-```
-
-Scoop repository provided by [@SegoCode](https://github.com/SegoCode)
-
-**Floorp has obtained a Certum Open Source Code Signing Certificate. The official Floorp installer is signed by "Open Source Developer, Ryosuke Asano". However, the installer for the Daylight build is not signed.**
-
+- Floorp provides a `.exe` installer, `winget`, and `Scoop` installation options. i prove exe/source code i hate winget and i dont use scoop
 #### macOS
 
 - macOS 10.15 or later.
 
 - x86_64 CPU & ARM64 CPU architecture. Floorp provides a Universal build for both architectures.
-
-Homebrew install command:
-
-```
-brew install --cask floorp
-```
-
-**After version 11.0.0, Floorp has obtained Apple Notarization & Certification. This means that you can install Floorp without any warning messages. Additionally, Floorp now includes an auto-update system.**
-
 #### Linux
 
 - Debian-based distributions (such as Ubuntu and Linux Mint) and Arch-based distributions (such as Manjaro) are supported.
@@ -102,20 +42,7 @@ brew install --cask floorp
 - x86_64 & AArch64 CPU architecture.
 
 - Floorp Browser Requirements: [Firefox system requirements](https://www.mozilla.org/firefox/system-requirements/)
-
-Supported package managers:
-
-- PPA (Ubuntu, Linux Mint, etc.): https://ppa.floorp.app
-- Flatpak (most Linux distributions): https://flathub.org/apps/one.ablaze.floorp
-- Tarball (most Linux distributions): https://github.com/Floorp-Projects/Floorp/releases/latest
-- AUR bin (Arch-based distributions): https://aur.archlinux.org/packages/floorp-bin/ **Unofficial**
-- AUR (Arch-based distributions): https://aur.archlinux.org/packages/floorp/ **Unofficial**
-- SBo bin (Slackware-based distributions): https://slackbuilds.org/repository/15.0/network/floorp-bin/ **Unofficial**
-
-### 📥 Download & 📦 Install
-
-You can download the latest version of Floorp Browser from the official website: [Floorp.app](https://floorp.app/download) or from the [GitHub Releases](https://github.com/Floorp-Projects/Floorp/releases) page.
-
+  
 ---
 
 ## 📖 Documentation
