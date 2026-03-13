@@ -12,7 +12,7 @@ my modified version of floorp all credit goes to them
     <img src="https://avatars.githubusercontent.com/u/94953125?s=200&v=4" alt="Logo" width="150" height="150">
   </a>
 
-  <h3 align="center">Floorp Browser </h3>
+  <h3 align="center">ModifiedFloorp </h3>
 
   <p align="center">
     modified floorp adds stupid stuff yes
