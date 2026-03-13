@@ -1,6 +1,6 @@
-# Floorp Browser
+# modifiedfloorp
 
-A browser built for keeping the Open, Private and Sustainable Web alive. Based on Mozilla Firefox.
+my modified version of floorp all credit goes to them
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
@@ -49,9 +49,8 @@ A browser built for keeping the Open, Private and Sustainable Web alive. Based o
   </p>
 </div>
 
-## 📄 Sponsorship
 
-Floorp Browser is a free and open-source project. If you like Floorp Browser, please consider sponsoring us. Your sponsorship will help us to continue development and pay for the server costs. You may advertise if you continuously sponsor a minimum of $100 per month.
+support the original people this doesnt go to me btw
 
 - [GitHub Sponsors](https://github.com/sponsors/surapunoyousei)
 
@@ -71,13 +70,10 @@ Floorp Browser is a free and open-source project. If you like Floorp Browser, pl
   </a>
 </div>
 
-## ⚡ Get Started
 
-### 💻 Supported Operating Systems & Requirements
+the original and mine are available on windows, mac, and linux but i recommend it on linux as thats what i tried it on
 
-Floorp Browser is available for Windows, macOS, and Linux. You can install it by running the installer or by extracting the archive.
-
-#### Windows
+#### windows
 
 - Windows 10 or later. (Windows 7 and 8 are not supported)
 
@@ -145,7 +141,7 @@ You can download the latest version of Floorp Browser from the official website:
 
 For more detailed information and guidance, check out our [Floorp Documentation Wiki](https://docs.floorp.app).
 
-### 📝 License
+### 📝 legal mumbo jumbo that doesnt apply to me
 
 [Mozilla Public License 2.0](https://www.mozilla.org/en-US/MPL/2.0/)
 
@@ -155,17 +151,13 @@ For more detailed information and guidance, check out our [Floorp Documentation 
 
 - Floorp uses Mozilla Firefox's source code and other open-source projects. See [Floorp License Notices](#-Floorp-License-Notices-)
 
-### 📧 Contact
+### contact to the original people
 
 - [Official Floorp Twitter](https://twitter.com/Floorp_Browser)
 
 - [Official Floorp Projects Discord](https://discord.floorp.app)
 
-### 📜 Privacy Policy
-
-- [Floorp Privacy Policy](https://floorp.app/privacy)
-
-### 📜 About Forks
+### 📜 About Forks. i probably should leave this in
 
 - Floorp is independent of Mozilla Firefox. Floorp is not affiliated with Mozilla & Mozilla Firefox.
 
@@ -173,15 +165,7 @@ For more detailed information and guidance, check out our [Floorp Documentation 
 
 - We are not affiliated with any organization other than Ablaze.
 
----
-
-## 🌟 Contributing
-
-### 🧰 How to Start Development
-
-Floorp's dev workflow is orchestrated by `feles-build` (a Deno task).
-
-To build and run Floorp, follow the [Building section of the documentation](https://docs.floorp.app/docs/building/).
+- i am not a part of ablaze i am random person who makes fork not person who updates it
 
 #### Useful commands
 
@@ -191,7 +175,7 @@ To build and run Floorp, follow the [Building section of the documentation](http
 
 ### 🐛 Reporting Bugs
 
-- If you find a bug, please report it to the [Issues](https://github.com/Floorp-Projects/Floorp/issues) page.
+- if u find a bug pls make an issue to me but if its a floorp bug or not related to me please report it to their [Issues](https://github.com/Floorp-Projects/Floorp/issues) if you are unsure please make an issue with me as i dont want them to get spam for something they didnt make
 
 ---
 
@@ -201,46 +185,8 @@ Floorp utilizes various open-source projects. Below is a comprehensive list of t
 
 Please note that while some of the software listed below is not included in Floorp itself, it is instead downloaded from the internet. Additionally, Floorp provides a list of recommended add-ons for users to install.
 
-### 🦊 Mozilla Firefox
+### firefox
 
 - [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/)
 - [Mozilla Public License 2.0](https://www.mozilla.org/en-US/MPL/2.0/)
 - Authors: [Mozilla & Contributors](https://www.mozilla.org/credits/)
-
-### 🐈 NyanRus Noraneko (Testhead of Floorp 12)
-
-- [Noraneko](https://github.com/nyanrus/noraneko-runtime)
-- [Mozilla Public License 2.0](https://github.com/nyanrus/noraneko-runtime/blob/main/LICENSE)
-- Author: [NyanRus](https://github.com/nyanrus)
-
-### 🎨 Firefox UI FIX (Lepton)
-
-- [Firefox UI FIX (Lepton)](https://github.com/black7375/Firefox-UI-Fix)
-- [Mozilla Public License 2.0](https://github.com/black7375/Firefox-UI-Fix/blob/master/LICENSE)
-- Author: [black7375](https://github.com/black7375)
-
-### 📦 userChromeCSS Loader
-
-- [userChromeCSS Loader](floorp/browser/base/content/browser-chromeCSS.js)
-- [MIT](floorp/browser/base/content/browser-chromeCSS.js)
-- Author: Griever
-
-Notice: if you are a developer of "userChromeCSS Loader", please contact us so that we can add your name and website to the list.
-
-### 📦 Paxmod
-
-- [Paxmod](https://github.com/numirias/paxmod)
-- [MIT](https://github.com/numirias/paxmod/blob/master/LICENSE)
-- Author: [numirias](https://github.com/numirias/)
-
-Notice: If you are a maintainer of any listed component and your name or license is missing or incorrect, please contact us.
-
-### 📦 Fushra Pulse
-
-- [Fushra Pulse](https://pulsebrowser.app/)
-- [Mozilla Public License 2.0](https://github.com/pulse-browser/browser/blob/main/LICENSE)
-- Author: [Fushra](https://github.com/Fushra)
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Floorp-Projects/Floorp&type=date&legend=top-left)](https://www.star-history.com/#Floorp-Projects/Floorp&type=date&legend=top-left)
